@@ -1,0 +1,25 @@
+body{
+    background-image: url(../Images/cinema.jpg);
+    background-size: cover;
+}
+.titre{
+    color: #fff;
+    font-family: monospace;
+}
+.tite{
+    color: rgb(154, 205, 50);
+    font-size: 25px;
+    font-family: monospace;
+    list-style-type: none;
+}
+ol{
+    color: #fff;
+    font-family: monospace;
+    list-style-type: upper-latin;
+    font-size: 20px;
+}
+ul{
+    color: #fff;
+    font-family: monospace;
+    list-style-type: disc;
+}
